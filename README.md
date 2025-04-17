@@ -25,7 +25,7 @@ This project is designed to evaluate students' understanding of robotic grasping
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/MohismLab/Interview_manipulation.git
+   git clone --recurse-submodules -j8 https://github.com/MohismLab/Interview_manipulation.git
    cd manipulator_grasp
    ```
 
